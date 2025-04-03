@@ -21,6 +21,7 @@ export default function Hero() {
         <h1
           className="text-[clamp(36px,_6vw,_60px)] max-w-[947px] leading-14 font-circular-bold md:leading-16 text-center"
           data-aos="fade-down"
+           data-aos-delay="50"
           data-aos-once="false" // Allow this element to re-animate
         >
           <span className="text-[#19A45B]">Simplify</span> Inventory Management
@@ -30,7 +31,7 @@ export default function Hero() {
         <p
           className="text-gray-600 text-base leading-6 md:text-[24px] md:leading-9 font-circular-light text-center font-light min-[400px]:px-5"
           data-aos="fade-up"
-          data-aos-delay="200"
+          data-aos-delay="50"
           data-aos-once="false" // Allow this element to re-animate
         >
           ShopDesk is a cloud based inventory management software that helps you
@@ -43,7 +44,7 @@ export default function Hero() {
         href="/sign-up"
         className="w-full flex justify-center items-center mt-8 -mb-4"
         data-aos="fade-up"
-        data-aos-delay="200"
+        data-aos-delay="50"
         data-aos-once="false"
       >
         <button className="btn-primary">Start your free trial</button>
@@ -55,7 +56,7 @@ export default function Hero() {
           alt="Display screen"
           className="w-[clamp(320px,_70vw,_850px)] max-w-[850px] hidden md:block"
           data-aos="zoom-in"
-          data-aos-delay="300"
+          data-aos-delay="50"
           data-aos-once="false" // Allow this element to re-animate
         />
         <Image
@@ -63,7 +64,7 @@ export default function Hero() {
           alt="Display screen"
           className="w-[clamp(320px,_70vw,_850px)] max-w-[850px] md:hidden mb-6"
           data-aos="zoom-in"
-          data-aos-delay="300"
+           data-aos-delay="50"
           data-aos-once="false" // Allow this element to re-animate
         />
 

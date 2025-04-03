@@ -51,7 +51,7 @@ export default function Works() {
             alt="phone"
             className="  mb-6"
             data-aos="zoom-in"
-            data-aos-delay="300"
+            data-aos-delay="50"
             data-aos-once="false" // Allow this element to re-animate
           />
         </div>
@@ -60,10 +60,9 @@ export default function Works() {
             <div
               key={step.id}
               data-aos="fade-up"
-              data-aos-delay="100"
+              data-aos-delay="50"
               data-aos-once="false"
               className="flex md:items-center items-start gap-6 md:gap-8"
-              //   className="grid grid-cols-[0.4fr_1fr]  place-items-start md:place-items-center "
             >
               <div className="flex gap-4 md:gap-6 items-center">
                 <p className="font-[450] text-xl text-[#888888]">Step</p>

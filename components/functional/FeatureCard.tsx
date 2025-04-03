@@ -21,7 +21,7 @@ export default function FeatureCard({ feature }: FeatureCardProps) {
     <div
       className={`rounded-[20px] flex flex-1 min-w-[300px] max-w-[400px] flex-col justify-between gap-5 items-start p-4 ${bgColor}`}
       data-aos="fade-up"
-      data-aos-delay="100"
+      data-aos-delay="50"
       data-aos-once="false" // Allow this element to re-animate
     >
       <Image

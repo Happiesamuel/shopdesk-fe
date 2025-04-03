@@ -45,6 +45,7 @@ export default function Features() {
         <h2
           className="text-center py-4 md:py-3 font-medium leading-6 text-[#009A49]"
           data-aos="fade-up"
+          data-aos-delay="50"
           data-aos-once="false" // Allow this element to re-animate
         >
           Key Features
@@ -54,6 +55,7 @@ export default function Features() {
           <div
             className="flex flex-col gap-8 min-w-[300px]"
             data-aos="fade-right"
+            data-aos-delay="50"
             data-aos-once="false" // Allow this element to re-animate
           >
             <div className="gap-2">
@@ -76,7 +78,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2 text-base"
                 data-aos="fade-up"
-                data-aos-delay="100"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
@@ -87,7 +89,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2 text-base"
                 data-aos="fade-up"
-                data-aos-delay="200"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
@@ -98,7 +100,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2 text-base"
                 data-aos="fade-up"
-                data-aos-delay="300"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
@@ -138,7 +140,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2"
                 data-aos="fade-up"
-                data-aos-delay="100"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
@@ -149,7 +151,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2"
                 data-aos="fade-up"
-                data-aos-delay="200"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
@@ -160,7 +162,7 @@ export default function Features() {
               <li
                 className="flex items-center gap-2"
                 data-aos="fade-up"
-                data-aos-delay="300"
+                data-aos-delay="50"
                 data-aos-once="false" // Allow this element to re-animate
               >
                 <span>
